@@ -2,7 +2,7 @@
 
 UAS phyton yang berisi tentang sourcode nilai, gaji, pembayaran, kalkulator
 
-![Flowchart] (https://github.com/sapriyan30/UAS/blob/master/file/FLOWCHART.pdf)
+![Flowchart] (https://github.com/sapriyan30/UAS/blob/master/file/flowchart.jpg)
 
 isi program nya:
 
